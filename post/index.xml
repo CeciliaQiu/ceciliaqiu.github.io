@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on CeciliaQiu</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on CeciliaQiu</description>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Mon, 08 Aug 2022 00:59:49 +0800</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Aug 2022 00:59:49 +0800</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2022年八月第一周</title>
-      <link>/post/2022-08-01-weely/</link>
+      <link>http://example.org/post/2022-08-01-weely/</link>
       <pubDate>Mon, 08 Aug 2022 00:59:49 +0800</pubDate>
       
-      <guid>/post/2022-08-01-weely/</guid>
+      <guid>http://example.org/post/2022-08-01-weely/</guid>
       <description>这周是漫长且变化多端的一周。周一我还雄心壮志在准备考研，周五就放弃了。订好了下周一去杭州的的机票和酒店，周天晚上就退掉了。这周的我感到巨大的焦虑和迷茫。
 回望二十多年来的人生，脊柱侧弯总是在影响着我，听到这话的人一定会觉得是不是脊柱侧弯带来了严重的病痛，让我深受其害。并非如此，它带给我的更大更深的影响却是心理上的，我深深地感到自卑和恐惧，并且这种感觉也不能得到家人的理解和支持。
 刚上大学的有段时间，我哭着跟妈妈打电话说我真的好害怕，我害怕我走在路上别人看我，我害怕出门，我害怕别人说我驼背，可是妈妈用一种无法理解的语气来劝导我，她还打电话给姐姐让她来劝我，可是整个过程，她们的话语里我没有感受到安慰，我感受到的只有她们觉得我小题大做的不解和无奈。自此以后，我的心事好像再也不会跟她们倾述了。
