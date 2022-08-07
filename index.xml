@@ -27,5 +27,23 @@
 按时给妈妈打电话吧，不管自己有多心烦意乱。</description>
     </item>
     
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Articles</title>
+      <link>http://example.org/articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/articles/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
